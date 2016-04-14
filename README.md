@@ -24,7 +24,7 @@ See below:
     Sponsored by Lexmark International (formerly Perceptive Software), normally
     early in the fall semester. Details will be posted as they are made available.
 
--   __Major League Hacking (MLH)__ - https://mlh.io/seasons/f2015/events
+-   __Major League Hacking (MLH)__ - https://mlh.io/events
 
     The official student hackathon league.
 
