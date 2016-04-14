@@ -127,4 +127,4 @@ See below:
 
     A collection of web-based interactive tutorials for Python.
     
-Know any other resources you'd like to share? Email us at: kuacm@ku.edu!
+##### Know any other resources you'd like to share? Email us at: kuacm@ku.edu!
